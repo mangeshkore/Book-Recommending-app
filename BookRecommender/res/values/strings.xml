@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BRS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Book Types -->
+    <string name="novel">novel</string>
+    <string name="fantasy">fantasy</string>
+    <string name="literature">literature</string>
+    <string name="scienceFiction">scienceFiction</string>
+    <string name="java">java</string>
+    <string name="html">html</string>
+    
+    <string name="toprated">Top Rated</string>
+    <string name="newrelease">New Release</string>
+  
+
+    <string-array name="book_types">
+        <item>novel</item>
+        <item>fantasy</item>
+        <item>literature</item>
+        <item>scienceFiction</item>
+        <item>java</item>
+        <item>html</item>
+    </string-array>
+    <string-array name="novel">
+        <item>To Kill a Mockingbird </item>
+        <item>Jane Eyre </item>
+        <item>The Catcher in the Rye </item>
+        <item>Crime and Punishment </item>
+        <item>Pride and Prejudice </item>
+        <item>The Secret Magdalene </item>
+    </string-array>
+    <string-array name="fantasy">
+        <item>Graceling</item>
+        <item>Vampire Academy </item>
+        <item>Alanna: The First Adventure</item>
+        <item>Poison Study </item>
+        <item>City of Bones</item>
+        <item>Sabriel </item>
+    </string-array>
+    <string-array name="literature">
+        <item>The Lord of the Rings </item>
+        <item>One Hundred Years of Solitude </item>
+        <item>The Silmarillion </item>
+        <item>Don Quixote </item>
+        <item>Crime and Punishment </item>
+        <item>Life of Pi </item>
+    </string-array>
+    <string-array name="scienceFiction">
+        <item>The Hunger Games</item>
+        <item>Divergent</item>
+        <item>The Stand </item>
+        <item>V for Vendetta </item>
+        <item>Matched </item>
+        <item>Never Let Me Go </item>
+    </string-array>
+    <string-array name="java">
+        <item>Introduction to Web Services with Java</item>
+        <item>Object Oriented Programming using Java</item>
+        <item>Java: Classes in Java Applications</item>
+        <item>Java: Graphical User Interfaces</item>
+        <item>Teach Yourself Java in 21 Days</item>
+        <item>Head First : Core Java</item>
+    </string-array>
+    <string-array name="html">
+        <item>Learn Basic HTML and Web Design – A Beginners Guide</item>
+        <item>HTML A Beginners Guide</item>
+        <item>Teach Yourself HTML in 21 Days</item>
+        <item>Head First HTML and CSS</item>
+        <item>HTML and CSS: A Programmers Quick Reference</item>
+        <item>HTML and  CSS: The Good Parts</item>
+    </string-array>
+    
+       <string-array name="searchCategory">
+        <item>Top Rated</item>
+        <item>New Release</item>
+      
+    </string-array>
+
+    <string name="title_activity_add_new_book">AddNewBookActivity</string>
+    <string name="title_activity_book_rating">BookRatingActivity</string>
+
+</resources>
